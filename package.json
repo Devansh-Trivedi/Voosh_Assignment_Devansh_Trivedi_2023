@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FSojitra/Node.js-Register-Login-App.git"
+    "url": "git@github.com:Devansh-Trivedi/Voosh_Assignment_Devansh_Trivedi_2023.git"
   },
   "author": "foram sojitra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FSojitra/Node.js-Register-Login-App/issues"
+    "url": "git@github.com:Devansh-Trivedi/Voosh_Assignment_Devansh_Trivedi_2023.git/issues"
   },
-  "homepage": "https://github.com/FSojitra/Node.js-Register-Login-App#readme"
+  "homepage": "https://github.com/FSojitra/Node.js-Register-Login-Appgit@github.com:Devansh-Trivedi/Voosh_Assignment_Devansh_Trivedi_2023.git#readme"
 }
