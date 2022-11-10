@@ -1,5 +1,5 @@
 {
-  "name": "node.js-register-login-app",
+  "name": "Voosh_Assignment_Devansh_Trivedi_2023",
   "version": "1.0.0",
   "description": "This is a user login and registration app using Node.js, Express, Mongoose and express-sessions. :+1:",
   "main": "server.js",
